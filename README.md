@@ -48,4 +48,11 @@ Offers features for design systems, version control, and interactive prototyping
 
 ![wireframe and prototype](https://github.com/user-attachments/assets/907b7e3d-f2d8-4345-b28a-7b90c267437f)
 ![trail app_page-0001](https://github.com/user-attachments/assets/d09967f1-211a-452a-a1d3-ac41baa49ec7)
+![trail app_page-0002](https://github.com/user-attachments/assets/7e2ead1c-66a1-45ee-ad79-41fd9997f233)
+![trail app_page-0003](https://github.com/user-attachments/assets/3b622287-ef3f-4baa-936c-05a4e7303903)
+![trail app_page-0004](https://github.com/user-attachments/assets/ea954aa9-2981-441d-b1bf-911bf3d82217)
+![trail app_page-0005](https://github.com/user-attachments/assets/418a1dad-baf1-4f78-a9cb-08d857351b3e)
+![trail app_page-0006](https://github.com/user-attachments/assets/9990bfde-8f92-41f8-876a-eea09b4c18f9)
+![trail app_page-0007](https://github.com/user-attachments/assets/6be9d208-3401-4efc-822a-191e5e6ad07d)
+
 
