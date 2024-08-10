@@ -44,5 +44,6 @@ Update personal information and settings.
 Figma ----- A cloud-based design tool for real-time collaboration, allowing teams to work together on UI/UX designs, wireframes, and prototypes.
 Offers features for design systems, version control, and interactive prototyping.
 
+![UI Ux DESIGN](https://github.com/user-attachments/assets/02467692-cf10-4e35-889f-3c00506ff006)
 
 
