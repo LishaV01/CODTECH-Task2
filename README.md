@@ -46,4 +46,6 @@ Offers features for design systems, version control, and interactive prototyping
 
 ![UI Ux DESIGN](https://github.com/user-attachments/assets/02467692-cf10-4e35-889f-3c00506ff006)
 
+![wireframe and prototype](https://github.com/user-attachments/assets/907b7e3d-f2d8-4345-b28a-7b90c267437f)
+![trail app_page-0001](https://github.com/user-attachments/assets/d09967f1-211a-452a-a1d3-ac41baa49ec7)
 
