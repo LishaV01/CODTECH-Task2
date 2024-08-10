@@ -1,6 +1,6 @@
 # CODTECH-Task2
-**Name**: Lisha.V
-**Company**: CODTECH IT SOLUTIONS
+**Name**: Lisha.V/n
+**Company**: CODTECH IT SOLUTIONS/n
 **ID** :CT6WDS616
 
 Domain:UI/UX DESIGN
